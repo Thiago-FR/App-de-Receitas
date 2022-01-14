@@ -16,6 +16,7 @@
 - [APIs](#apis)
   - [API TheMealDB](#api-TheMealDB)
   - [API CockTailDB](#apis-CockTailDB)
+- [Protótipo](#prototipo)
 
 ---
 
@@ -79,4 +80,9 @@ Os end-points são bastante ricos, você pode [vê-los aqui](https://www.themeal
 Bem similar (inclusive mantida pela mesma entidade) a TheMealDB API, só que focado em bebidas.
 
 Os end-points também são bastante ricos, você pode [vê-los aqui](https://www.thecocktaildb.com/api.php)
+
+
+## Protótipo <a name="prototipo"></a>
+
+![Protótipo](/App-de-Receitas.gif)
 
