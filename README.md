@@ -43,6 +43,7 @@ A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
 ### Atividade desenvolvida por mim  <a name="atividade"></a>
 
 Nessa aplicação fique responsável por realizar todos testes, com a cobertura de codiigo de 98%
+![Coverage](/coverage.png)
 
 ---
 
